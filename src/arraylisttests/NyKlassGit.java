@@ -10,5 +10,6 @@ package arraylisttests;
  * @author magdalenabergqvist
  */
 public class NyKlassGit {
+    int a =10;
     
 }
