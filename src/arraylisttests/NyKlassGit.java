@@ -11,5 +11,5 @@ package arraylisttests;
  */
 public class NyKlassGit {
     int a =10;
-    
+    int b = 2;
 }
